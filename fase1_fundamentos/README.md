@@ -10,6 +10,8 @@ O foco foi aprender a importar bases, criar gráficos, aplicar formatação e es
 
 ### 📊 Dashboard RH — Acompanhamento de Recursos Humanos
 
+![Dashboard RH](./screenshots/dashboard_rh.png)
+
 Dashboard desenvolvido como parte da **Fase I (Fundamentos Power BI)**.  
 Objetivo: demonstrar habilidades iniciais de modelagem, DAX e design descritivo.
 
