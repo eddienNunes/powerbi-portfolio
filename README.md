@@ -1,31 +1,30 @@
 # 📊 Power BI Portfolio
 
-Bem-vindo(a) ao meu portfólio de **Análise de Dados com Power BI e SQL Server**!  
-Este repositório foi criado como parte de um plano de estudos e prática, com o objetivo de consolidar fundamentos de análise de dados, DAX e modelagem relacional  aplicando tudo em dashboards reais e interativos.
+Bem-vindo(a) ao meu portfólio de **Análise de Dados utilizando Power BI e SQL Server**!  
+Este repositório faz parte do meu plano de estudos para transição de carreira, reunindo atividades práticas que envolvem desde a preparação dos dados até a criação de dashboards completos e funcionais.  
+O objetivo é demonstrar domínio dos fundamentos de análise, modelagem e visualização de dados.
+
 
 ## 🎯 Objetivo do Projeto
 
-Demonstrar, de forma prática, habilidades essenciais para atuação como **Analista de Dados**, incluindo:
+Apresentar, na prática, competências essenciais para atuar como **Analista de Dados**, incluindo:
 
-- Criação de Dashboards no **Power BI**
-- Modelagem de dados (Fato e Dimensão)
-- Conexão e tratamento de dados via **SQL Server**
-- Escrita de medidas e cálculos com **DAX**
-- Boas práticas de design e UX em dashboards
-- Publicação de relatórios e documentação no **GitHub**
+- Desenvolvimento de Dashboards no **Power BI**
+- Modelagem relacional (Tabelas Fato e Dimensão)
+- Coleta, limpeza e transformação de dados com **SQL Server**
+- Criação de medidas, KPIs e cálculos utilizando **DAX**
+- Aplicação de boas práticas de design, UX e storytelling com dados
+- Publicação e documentação técnica no **GitHub**
 
----
+
 
 ## 📆 Estrutura das Fases do Projeto
 
-| Fase | Tema Principal | Entregável |
-|:--|:--|:--|
-| 🧱 **Fase I** | Fundamentos Power BI | Dashboard básico (dados em CSV/Excel) |
-| 💾 **Fase II** | SQL Server + Conexão Power BI | Banco `VendasDB` + integração Power BI |
-| 📈 **Fase III** | DAX + Modelagem + Design | Dashboard com KPIs e medidas calculadas |
-| 🚀 **Fase IV** | Projeto Final | Dashboard completo + README + demo |
-
----
-
+| Fase | Tema Principal | Entregáveis |
+|------|----------------|-------------|
+| 🧱 **Fase I** | Fundamentos do Power BI | Dashboards iniciais usando CSV/Excel |
+| 💾 **Fase II** | SQL Server + Power BI | Criação do banco `VendasDB` e conexão com Power BI |
+| 📈 **Fase III** | DAX + Modelagem + Design | Dashboard com KPIs, relacionamentos e medidas avançadas |
+| 🚀 **Fase IV** | Projeto Final | Dashboard completo + README detalhado + vídeo/demo |
 
 
